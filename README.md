@@ -9,10 +9,10 @@
 
 ---
 
-- 💻 Working on mini projects like **CRUD operations**, **One-to-Many**, and **Many-to-Many**
-- 🎓 Computer Engineering Student | Batch 215 (Java)
-- 🔧 Exploring **Java Full Stack**, **Spring Boot**, and **REST APIs**
-- 📫 Contact me at **adityavajale6@gmail.com**
+- 👨‍💻 Currently working on mini projects using **Hibernate**, **MySQL**, and **Java OOPs**
+- 🧠 Exploring full stack: **JSP/Servlets**, **Spring Boot**, and **REST APIs**
+- 🎓 Final Year Computer Engineering | Batch 215 (Java)
+- 📫 Reach me at **adityavajale6@gmail.com**
 
 ---
 
@@ -41,7 +41,7 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aditya-vajale" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-vajale-376416294/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
   </a>
   <a href="mailto:adityavajale6@gmail.com">
@@ -51,4 +51,4 @@
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile!*
+⭐ *Thanks for visiting my profile! Check out my pinned repositories to see my Hibernate and Java mini projects.*
