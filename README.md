@@ -11,7 +11,7 @@
 
 - 👨‍💻 Currently working on mini projects using **Hibernate**, **MySQL**, and **Java OOPs**
 - 🧠 Exploring full stack: **JSP/Servlets**, **Spring Boot**, and **REST APIs**
-- 🎓 Final Year Computer Engineering | Batch 215 (Java)
+- 🎓 Completed Final Year Computer Engineering |
 - 📫 Reach me at **adityavajale6@gmail.com**
 
 ---
