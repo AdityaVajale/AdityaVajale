@@ -40,12 +40,9 @@
 ---
 
 ### 📁 Featured Projects
-
-- 🔸 [Hibernate CRUD Project](https://github.com/AdityaVajale/hibernate-crud)  
-  A basic Hibernate project performing Create, Read, Update, Delete operations using MySQL.
-
-- 🔸 [Employee–Project Many-to-Many Mapping](https://github.com/AdityaVajale/employee-project-many-to-many)  
-  Java mini-project demonstrating Many-to-Many relationship between Employee and Projects using Hibernate ORM.
+-Project links:-
+https://github.com/AdityaVajale/Registeration_form_db
+Created registration and login system using JDBC,SERVLET,HTML,CSS
 
 ---
 
